@@ -307,7 +307,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Advaita**
-- GitHub: [@advaita2706-dev](https://github.com/advaita2706-dev)
+- GitHub: [@sarvagya70-dev](https://github.com/sarvagya70/Student-Performace-Predictor)
 - Institution: VIT Bhopal
 
 ## 🙏 Acknowledgments
